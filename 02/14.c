@@ -1,3 +1,7 @@
+/*
+Read the book <advantage topics in c>, chepter one
+***/
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>
