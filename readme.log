@@ -5,4 +5,5 @@ Git tracks the changes of the file.
 Demo for the command 'git push original master'.
 
 Merge the 'Master'-branch and 'Dev'-branch without fast-forward.
+Using 'git stash' to temple save the 'dev-branch' to switch 'bug fix issue-branch'
 
