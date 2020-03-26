@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks the changes of the file.
 Demo for the command 'git push original master'.
 
+Merge the 'Master'-branch and 'Dev'-branch without fast-forward.
+
